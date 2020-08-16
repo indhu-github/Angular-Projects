@@ -1,0 +1,13 @@
+.list{
+  border:1px solid green;
+  color:white;
+  display: inline-block;
+  width:100%;
+  font-size:20px;
+}
+h1{
+  color:Blue;
+}
+.btn1{
+  float:right;
+}
