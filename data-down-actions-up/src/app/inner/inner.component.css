@@ -1,0 +1,9 @@
+.inner-container{
+  width:150px;
+  height:150px;
+  display:inline-block;
+  background-color: pink;
+  text-align: center;
+  line-height: 150px;
+  border:1px solid blue;
+}

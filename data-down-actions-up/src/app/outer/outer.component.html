@@ -1,0 +1,6 @@
+<div class="outer-container">
+  <span>Outer</span>
+  <div>Data:{{names}}</div>
+  <div>Selected:{{name}}</div>
+  <app-inner *ngFor="let name of names" [name]="name" (eventFromInner)="eventFromInner($event)"></app-inner>
+</div>
