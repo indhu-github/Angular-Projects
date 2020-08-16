@@ -1,6 +1,6 @@
 After cloning this project: 
 Run the command : npm install
-,Then it will download all the node modules .
+ Then it will download all the node modules .
 Then proceed to play with the project and run with the command ng serve --open
 
 
