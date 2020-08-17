@@ -1,0 +1,9 @@
+.nameTagContainer{
+  border:1px solid green;
+  padding:5px;
+  width:150px;
+  height:150px;
+  display:inline-block;
+  text-align: center;
+  line-height: 150px;
+}
